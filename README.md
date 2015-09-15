@@ -1,0 +1,2 @@
+# SpringMVCwithIbatis
+example
